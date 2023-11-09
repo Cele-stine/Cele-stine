@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Celestine Wangechi.
+- 👀 I’m interested in everything coding.
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on intresting projects
+- 📫 How to reach me https://www.linkedin.com/in/celestine-wangechi
